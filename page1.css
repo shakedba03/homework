@@ -1,0 +1,21 @@
+body{
+	background-color: #ffaca6
+}
+#main{
+	font-size: 140%;
+}
+
+#hedg{
+	position: absolute;
+	right: 10%;
+}
+
+#dog{
+	position: absolute;
+	right: 40%;
+}
+
+#bunny{
+	position: absolute;
+	left: 10%;
+}
